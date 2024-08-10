@@ -7,7 +7,7 @@
 
 The **Supply Chain Management System** is an advanced solution designed to optimize the flow of goods from suppliers to retailers. Leveraging a multi-agent architecture, this system facilitates seamless order processing, material handling, manufacturing, distribution, and order confirmation. The frontend offers a modern and interactive interface, while the backend ensures robust handling of business logic and agent communication.
 
-**⚠️ Note:** The current implementation is a work in progress. Integration with DeltaV is pending, but a comprehensive overview of the project can be explored through the [presentation](#) linked below.
+**⚠️ Note:** The current implementation is a work in progress. Integration with DeltaV is pending, but a comprehensive overview of the project can be explored through the ![presentation](fetch.ai_dApp) linked below.
 
 ## Live Demo
 
@@ -140,7 +140,7 @@ Explore the following diagrams to understand the system's architecture and desig
 
 ## 📽 Presentation
 
-For a detailed overview of the project's objectives, implementation, and future enhancements, please refer to the [presentation](#).
+For a detailed overview of the project's objectives, implementation, and future enhancements, please refer to the ![presentation](fetch.ai_dApp).
 
 ## 🤝 Contributing
 
