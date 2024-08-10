@@ -11,7 +11,7 @@ The **Supply Chain Management System** is an advanced solution designed to optim
 
 ## Live Demo
 
-Check out the live demo: [dApp - Supply Chain Decentralization](:https://fetchai-dapp.netlify.app/)
+Check out the live demo: [dApp - Supply Chain Decentralization](https://fetchai-dapp.netlify.app/)
 
 ## 🌟 Features
 
@@ -89,8 +89,8 @@ Ensure you have the following installed:
    ```
 
 3. **Set Up the Backend:**
-##### will create requirements.txt very soon after completion after implementation < . . >
-#####                                                                                 ~ 
+##### will create requirements.txt very soon after completion after implementation ! < . . > !
+#####                                                                                   ~ 
    ```bash
    cd ../backend
    pip install -r requirements.txt
@@ -144,7 +144,39 @@ For a detailed overview of the project's objectives, implementation, and future 
 
 ## 🤝 Contributing
 
-We welcome contributions to improve the project. Please fork the repository and submit pull requests. Ensure that your code adheres to our coding standards and includes relevant documentation.
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
+
+### Steps to Contribute:
+
+1. **Fork the repository:**
+
+   ```sh
+   git clone https://github.com/yourusername/react-dashboard.git
+   cd react-dashboard
+   ```
+
+2. **Create a new branch for your feature or bugfix:**
+
+   ```sh
+   git checkout -b feature-or-bugfix-name
+   ```
+
+3. **Make your changes and commit them:**
+
+   ```sh
+   git commit -am 'Add new feature or fix'
+   ```
+
+4. **Push your branch to GitHub:**
+
+   ```sh
+   git push origin feature-or-bugfix-name
+   ```
+
+5. **Create a Pull Request:**
+   - Go to the repository on GitHub.
+   - Click on the "New Pull Request" button.
+   - Provide a description of your changes and submit the PR.
 
 ## 📝 Contact
 
