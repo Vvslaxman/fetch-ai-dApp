@@ -33,7 +33,7 @@ Check out the live demo: [dApp - Supply Chain Decentralization](https://fetchai-
 
 - **Backend:**
   - **Flask** for the RESTful API
-  - **UAgenets** for the multi-agent system
+  - **UAgents** for the multi-agent system
 
 - **Database:** Not implemented (suggest adding a database as needed)
 
@@ -89,7 +89,7 @@ Ensure you have the following installed:
    ```
 
 3. **Set Up the Backend:**
-##### will create requirements.txt very soon after completion after implementation ! < . . > !
+##### will create requirements.txt very soon after completion of full implementation ! < . . > !
 #####                                                                                   ~ 
    ```bash
    cd ../backend
