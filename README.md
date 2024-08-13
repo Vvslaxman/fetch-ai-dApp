@@ -9,6 +9,10 @@ The **Supply Chain Management System** is an advanced solution designed to optim
 
 **⚠️ Note:** The current implementation is a work in progress. Integration with DeltaV is pending, but a comprehensive overview of the project can be explored through the [Supply Chain Management Presentation](./fetch.ai_dApp.pdf) linked below.
 
+## 📖 Read Our Blog
+
+**[Read the Full Article](https://devpost.com/software/supply-chain-decentralization)** - Explore the intricacies of supply chain management, challenges faced during development, and future plans for the project.
+
 ## Live Demo
 
 Check out the live demo: [dApp - Supply Chain Decentralization](https://fetchai-dapp.netlify.app/)
